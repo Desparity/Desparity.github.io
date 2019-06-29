@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-image:url(src/bg8.jpg);
+    background-image:url(src/dark_autumn_daywallpaper1600x900.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,9 +16,9 @@ div#principal{
 }
 
 div#foto{
-    width: 300px;
+    width: 400px;
     height: 390px;
-    background-image: url(src/chow2.png );
+    background-image: url(src/IMG_2765.jpg );
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -30,7 +30,7 @@ div#foto{
 }
 
 div#foto:hover{
-    width: 350px;
+    width: 450px;
     height: 390px;
     transition: .2s;
     position: absolute;
@@ -40,7 +40,7 @@ div#foto:hover{
 }
 
 div#links{
-    width: 300px;
+    width: 400px;
     height: 100px;
     position: relative;
     top: 400px;
@@ -55,7 +55,7 @@ div#links:hover{
     transition: .3s;
     position: absolute;
     top: 400px;
-    width: 350px;
+    width: 450px;
     left: -25px;
     right: -25px;
 }
